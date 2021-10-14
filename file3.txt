@@ -1,1 +1,2 @@
 This is file3
+Ping : Ping command is used to check whether your connection to the server is working or not.
