@@ -1,1 +1,2 @@
 This is file2
+Traceroute : Traceroute is a network trouble shooting utility which shows no.of hops taken to reach the destination and also determines the packets tarvelling path.
