@@ -6,3 +6,5 @@ When GITScm polls GitHub, it finds that there is a change and initiates a build.
 
 
 The last sentence describes the behavior of Git plugin, thus the polling and initiating the build is not a part of GitHub plugin.
+
+Thanks
